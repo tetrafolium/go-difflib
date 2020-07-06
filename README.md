@@ -52,3 +52,4 @@ would output:
 
 test
 test2
+test3
